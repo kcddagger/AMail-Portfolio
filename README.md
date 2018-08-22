@@ -9,3 +9,7 @@ AMail was a project that was written inside of 6 weeks to see what I knew and wh
 This project also allowed me to display some of my strengths to the company, one of them being that I was more UI oriented than my partner on this project.
 
 This was a collaboration between Crystal Buckneberg and Brad Mandery, and is posted to my portfolio with permission of Brad Mandery.
+
+The files in the Zip should be enough to allow a person to see what was done and if they really wished to, with permission, launch AMail to an IIS7 server to get a visual of what was done and implimented in the 6 weeks.
+
+This was a very limited project and many ideas and features that were brought up as possibilities were not implimented due to the time limit on this project as a training project.  However it was reasonably well executed in my opinion and I hope at some point to put up screen shots of what was done on my portfolio site.
