@@ -13,3 +13,8 @@ This was a collaboration between Crystal Buckneberg and Brad Mandery, and is pos
 The files in the Zip should be enough to allow a person to see what was done and if they really wished to, with permission, launch AMail to an IIS7 server to get a visual of what was done and implimented in the 6 weeks.
 
 This was a very limited project and many ideas and features that were brought up as possibilities were not implimented due to the time limit on this project as a training project.  However it was reasonably well executed in my opinion and I hope at some point to put up screen shots of what was done on my portfolio site.
+
+_____________________________________________________________________________________________________________________________________
+**Update: October 5, 2018**
+
+I was able to get the screenshots of most of the processes of the AMail program.  They can be found at http://crb.kcddagger.com/?p=mvc5 if you should desire to take a look at it without having to install the whole project.
